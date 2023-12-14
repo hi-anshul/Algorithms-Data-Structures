@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Min_Steps_to_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Min_Steps_to_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Min_Steps_to_1-Debug-84716bca70e3aed41dbe.json",
+					"name" : "Min_Steps_to_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ANSHU/OneDrive/Documents/Programming/CPP-Development/Practice/Algorithms-and-Data-Structures/Dynamic-Programming/Basics/Min-Steps-to-1/cmake-build-debug",
+		"source" : "C:/Users/ANSHU/OneDrive/Documents/Programming/CPP-Development/Practice/Algorithms-and-Data-Structures/Dynamic-Programming/Basics/Min-Steps-to-1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

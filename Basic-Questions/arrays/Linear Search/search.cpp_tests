@@ -1,0 +1,40 @@
+[
+	{
+		"correct_answers":
+		[
+			"Enter Search element\n9",
+			"9"
+		],
+		"test": "10\n1\n2\n3\n4\n5\n6\n7\n8\n9\n9\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Element not found"
+		],
+		"test": "11\n10\n1\n2\n3\n4\n5\n6\n7\n8\n11\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Element not found"
+		],
+		"test": "15\n11\n12\n3\n4\n5\n6\n7\n78\n8\n6\n"
+	},
+	{
+		"correct_answers":
+		[
+			"2"
+		],
+		"test": "3\n1\n2\n3\n4\n5\n5\n6\n7\n5\n"
+	},
+	{
+		"test": "11\n"
+	},
+	{
+		"test": "154\n"
+	},
+	{
+		"test": "123\n"
+	}
+]

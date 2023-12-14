@@ -1,0 +1,26 @@
+[
+	{
+		"correct_answers":
+		[
+			"Enter the amount\nNo Discount\n10"
+		],
+		"test": "10\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the amount\nNo Discount\n30"
+		],
+		"test": "30\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the amount\n10% Discount\n10"
+		],
+		"test": "100\n"
+	},
+	{
+		"test": ""
+	}
+]

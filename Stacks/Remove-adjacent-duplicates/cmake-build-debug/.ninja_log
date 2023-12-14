@@ -1,0 +1,5 @@
+# ninja log v5
+1	3598	7102398152388030	CMakeFiles/Remove_adjacent_duplicates.dir/main.cpp.obj	d5aac96cf8b7d7dc
+3613	3842	7102398154735725	Remove_adjacent_duplicates.exe	6f65d58dbcac015f
+6	3394	7102403784383140	CMakeFiles/Remove_adjacent_duplicates.dir/main.cpp.obj	d5aac96cf8b7d7dc
+3395	3598	7102403786378801	Remove_adjacent_duplicates.exe	6f65d58dbcac015f

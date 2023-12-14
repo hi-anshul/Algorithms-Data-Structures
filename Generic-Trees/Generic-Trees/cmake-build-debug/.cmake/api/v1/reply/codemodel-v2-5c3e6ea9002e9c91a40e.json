@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Generic_Trees",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Generic_Trees::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Generic_Trees-Debug-aff3308a37fc9b4a75b5.json",
+					"name" : "Generic_Trees",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ANSHU/OneDrive/Documents/Programming/CPP-Development/Practice/Practice/Generic-Trees/Generic-Trees/cmake-build-debug",
+		"source" : "C:/Users/ANSHU/OneDrive/Documents/Programming/CPP-Development/Practice/Practice/Generic-Trees/Generic-Trees"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

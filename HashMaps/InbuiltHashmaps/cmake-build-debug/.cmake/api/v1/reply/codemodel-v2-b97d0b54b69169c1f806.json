@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "InbuiltHashmaps",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "InbuiltHashmaps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InbuiltHashmaps-Debug-d2df0d5e234868702b96.json",
+					"name" : "InbuiltHashmaps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ANSHU/OneDrive/Documents/Programming/CPP-Development/Practice/Practice/HashMaps/InbuiltHashmaps/cmake-build-debug",
+		"source" : "C:/Users/ANSHU/OneDrive/Documents/Programming/CPP-Development/Practice/Practice/HashMaps/InbuiltHashmaps"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

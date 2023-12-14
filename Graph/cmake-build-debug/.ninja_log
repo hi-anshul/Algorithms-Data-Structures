@@ -1,0 +1,15 @@
+# ninja log v5
+3	2724	7131732928311004	CMakeFiles/Adjacency_Matrix.dir/main.cpp.obj	8f974b90dc1a5425
+2724	2989	7131732930924791	Adjacency_Matrix.exe	d37ff99137fb2f78
+4	1618	7131735721667135	CMakeFiles/Adjacency_Matrix.dir/main.cpp.obj	963e692151889e5d
+1619	1729	7131735722751454	Adjacency_Matrix.exe	d37ff99137fb2f78
+2	2031	7132533888402068	CMakeFiles/Adjacency_Matrix.dir/main.cpp.obj	963e692151889e5d
+2032	2487	7132533892945647	Adjacency_Matrix.exe	d37ff99137fb2f78
+3	2027	7132545383050301	CMakeFiles/Adjacency_Matrix.dir/main.cpp.obj	963e692151889e5d
+2028	2142	7132545384215241	Adjacency_Matrix.exe	d37ff99137fb2f78
+2	2016	7132548912584608	CMakeFiles/Adjacency_Matrix.dir/main.cpp.obj	963e692151889e5d
+2017	2129	7132548913682797	Adjacency_Matrix.exe	d37ff99137fb2f78
+3	1865	7132555978873866	CMakeFiles/Adjacency_Matrix.dir/main.cpp.obj	963e692151889e5d
+1866	1988	7132555980079655	Adjacency_Matrix.exe	d37ff99137fb2f78
+3	1788	7132556753770162	CMakeFiles/Adjacency_Matrix.dir/main.cpp.obj	963e692151889e5d
+1789	1901	7132556754889988	Adjacency_Matrix.exe	d37ff99137fb2f78

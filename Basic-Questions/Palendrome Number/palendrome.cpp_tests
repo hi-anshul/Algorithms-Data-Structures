@@ -1,0 +1,37 @@
+[
+	{
+		"correct_answers":
+		[
+			"Enter the Number\nNo is Palendrome"
+		],
+		"test": "121\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the Number\nNo is not Palendrome"
+		],
+		"test": "23\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the Number\nNo is not Palendrome"
+		],
+		"test": "10\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the Number\nNo is not Palendrome"
+		],
+		"test": "30\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the Number\nNo is Palendrome"
+		],
+		"test": "656\n"
+	}
+]
